@@ -13,7 +13,7 @@ $_SESSION['LAST_ACTIVITY'] = time(); // Update last activity time
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Party Member Registration System - Daryeel ICT Solutions</title>
+    <title>Party Members Registration System - Daryeel ICT Solutions</title>
     <link rel="icon" href="icontest.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -391,8 +391,8 @@ $_SESSION['LAST_ACTIVITY'] = time(); // Update last activity time
     <!-- Hero Section -->
     <section class="hero">
         <div class="container">
-            <h2>Comprehensive Party Membership Management Solution</h2>
-            <p>Streamline member registration, management, and communication with our advanced Party Members Registration System.Developed by Daryeel ICT Solutions to empower Political organizations with modern digital software tools.</p>
+            <h2>Advanced Party Membership Management Solution</h2>
+            <p>Streamline member registration, management, and communication with an advanced Party Members Registration System.  Built by Daryeel ICT Solutions to empower Somali Political organizations with modern digital software tools.</p>
             <a href="https://www.youtube.com/@daryeelict" class="cta-button">Watch Video </a>
         </div>
     </section>
