@@ -393,7 +393,7 @@ $_SESSION['LAST_ACTIVITY'] = time(); // Update last activity time
         <div class="container">
             <h2>Advanced Party Membership Management Solution</h2>
             <p>Streamline member registration, management, and communication with an advanced Party Members Registration System.  Built by Daryeel ICT Solutions to empower Somali Political organizations with modern digital software tools.</p>
-            <a href="https://www.youtube.com/@daryeelict" class="cta-button">Watch Video </a>
+            <a href="https://www.youtube.com/@daryeelict" class="cta-button">Watch Promo Video </a>
         </div>
     </section>
 
