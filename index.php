@@ -548,7 +548,7 @@ $_SESSION['LAST_ACTIVITY'] = time(); // Update last activity time
     <section class="overview">
         <div class="container">
             <div class="section-title">
-                <h2>System Capabilities</h2>
+                <h2>Test</h2>
                 <p>Our platform provides comprehensive tools for modern political organization management</p>
             </div>
             <div class="overview-grid">
