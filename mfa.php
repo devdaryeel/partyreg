@@ -14,9 +14,9 @@ ini_set('display_errors', 1);
 // Database connection for Hostinger
 $host = '127.0.0.1';
 $port = '3306';
-$dbname = 'u512201512_partyregsys';
-$db_username = 'u512201512_dev_partyregsy';
-$db_password = '8L+Puyhvz*o';
+$dbname = 'partgrey';
+$db_username = 'root';
+$db_password = '';
 
 // Initialize variables
 $error = "";
